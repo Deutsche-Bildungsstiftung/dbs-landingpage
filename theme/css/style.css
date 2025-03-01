@@ -133,7 +133,7 @@ input[type=tel]:focus {
   margin-right: 5px;
 }
 .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-  background: #353240;
+  background: rgb(53.3055555556, 49.6111111111, 64.3888888889);
   color: #fff;
 }
 
@@ -246,11 +246,11 @@ input[type=tel]:focus {
 }
 
 .bg-primary-dark {
-  background: #4d485d !important;
+  background: rgb(77.1527777778, 71.8055555556, 93.1944444444) !important;
 }
 
 .bg-primary-darker {
-  background: #353240 !important;
+  background: rgb(53.3055555556, 49.6111111111, 64.3888888889) !important;
 }
 
 .bg-dark {
@@ -810,7 +810,7 @@ ul.dropdown-menu li {
     margin-bottom: 10px;
   }
   .dropleft .dropdown-menu,
-.dropright .dropdown-menu {
+  .dropright .dropdown-menu {
     margin-top: -10px;
   }
   .dropdown:hover > .dropdown-menu {
@@ -820,7 +820,7 @@ ul.dropdown-menu li {
   }
 }
 .slider {
-  background: url("../images/slider-bg.jpg") no-repeat;
+  background: url("../images/slider-bg.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -1114,7 +1114,6 @@ ul.dropdown-menu li {
 }
 
 .portfolio-single-slider {
-  cursor: -webkit-grab;
   cursor: grab;
 }
 
