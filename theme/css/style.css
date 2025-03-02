@@ -552,7 +552,7 @@ input[type=tel]:focus {
   right: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: #002D62;
   opacity: 0.8;
 }
 
@@ -615,7 +615,7 @@ input[type=tel]:focus {
 }
 
 /*--
-	features-work Start 
+	features-work Start
 --*/
 #features-work {
   padding-top: 50px;
@@ -629,7 +629,7 @@ input[type=tel]:focus {
 }
 
 /*--
-	Header Start 
+	Header Start
 --*/
 header {
   background: #fff;
