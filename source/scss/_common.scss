@@ -91,12 +91,12 @@ input[type="tel"] {
 
 .btn-solid-border {
   border: 1px solid $light;
-  background: transparent;
+  background: $primary-color-third;
   color: $light;
 
   &:hover {
     border: 1px solid $primary-color;
-    background: $primary-color;
+    background: $primary-color-second;
   }
 }
 
@@ -341,7 +341,7 @@ input[type="tel"] {
   padding: 70px 0;
 }
 
-// Social Media Icons 
+// Social Media Icons
 .social-media-icons {
   ul {
     li {
@@ -604,7 +604,7 @@ input[type="tel"] {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #1d192c;
+    background: #002D62;
     opacity: 0.8;
   }
 }

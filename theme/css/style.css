@@ -10,7 +10,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Volkhov:ital@1&display=swap");
 body {
   line-height: 1.65;
-  font-family: "Roboto", sans-serif;
+  font-family: "Calibri", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Calibri", sans-serif;
 }
 
 h1,
@@ -51,7 +51,7 @@ h4 {
 p {
   color: #7B7B7B;
   font-size: 15px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Calibri", sans-serif;
   line-height: 1.7;
 }
 
@@ -139,12 +139,12 @@ input[type=tel]:focus {
 
 .btn-solid-border {
   border: 1px solid #fff;
-  background: transparent;
+  background: #FF6600;
   color: #fff;
 }
 .btn-solid-border:hover {
   border: 1px solid #655E7A;
-  background: #655E7A;
+  background: #4A90E2;
 }
 
 .btn-transparent {
@@ -287,7 +287,7 @@ input[type=tel]:focus {
 .section-title p {
   font-style: italic;
   color: #666;
-  font-family: "Volkhov", serif;
+  font-family: "Arial", serif;
 }
 
 .section-subtitle {
@@ -615,7 +615,7 @@ input[type=tel]:focus {
 }
 
 /*--
-	features-work Start
+	features-work Start 
 --*/
 #features-work {
   padding-top: 50px;
@@ -629,7 +629,7 @@ input[type=tel]:focus {
 }
 
 /*--
-	Header Start
+	Header Start 
 --*/
 header {
   background: #fff;
@@ -1143,7 +1143,7 @@ ul.dropdown-menu li {
   font-size: 35px;
 }
 .testimonial .testimonial-carousel p {
-  font-family: "Volkhov", serif;
+  font-family: "Arial", serif;
   line-height: 28px;
   padding-bottom: 20px;
 }
@@ -1154,7 +1154,7 @@ ul.dropdown-menu li {
   display: inline-block;
 }
 .testimonial .testimonial-carousel .user p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Calibri", sans-serif;
   padding-bottom: 0;
   margin-top: 6px;
   font-size: 12px;
