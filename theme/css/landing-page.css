@@ -87,7 +87,7 @@ a:hover {
   transition: all 0.3s ease;
 }
 .navigation .navbar .dropdown-menu a:hover {
-  background: #655E7A;
+  background: #002D62;
   color: #fff;
   padding-left: 25px;
 }
@@ -169,10 +169,10 @@ a:hover {
 }
 .call-to-action-landing .btn-blue {
   color: #fff;
-  background: #655E7A;
+  background: #002D62;
 }
 .call-to-action-landing .btn-gray {
-  background: #2E7EED;
+  background: #F5F5F5;
   color: #fff;
 }
 /*# sourceMappingURL=landing-page.css.map */
