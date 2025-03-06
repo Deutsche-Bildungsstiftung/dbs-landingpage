@@ -1,11 +1,11 @@
 .feature {
-	background: url("../img/featue-bg.jpg");
+	background: url("../img/feature-bg.png");
 	background-position: 50% 94px;
 	display: block;
 	position: relative;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-position: center center;
+	//background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
 	@include tablet {
