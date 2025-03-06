@@ -5,7 +5,7 @@ Airspace is a clean, unique, and free bootstrap website template. The template i
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/airspace/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/airspace/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/airspace/service.html) |
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/airspace/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/airspace/imprint.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/airspace/service.html) |
 |:---:|:---:|:---:|
 | **Homepage**  | **About**  | **Service**  |
 | [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/airspace/portfolio.html) | [![](screenshots/pricing.png)](https://demo.themefisher.com/themefisher/airspace/pricing.html) | [![](screenshots/blog-r.png)](https://demo.themefisher.com/themefisher/airspace/blog-right-sidebar.html) |
