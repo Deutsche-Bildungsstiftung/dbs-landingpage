@@ -284,11 +284,12 @@ input[type="tel"] {
 
 .page-title {
   padding: 100px 0;
+  z-index: 1;
   @extend .overly;
 
   .block {
+    position: relative;
     text-align: center;
-
     h1 {
       color: $light;
       font-weight: 200;
@@ -595,6 +596,7 @@ input[type="tel"] {
 .overly {
   position: relative;
 
+  z-index: 1;
   &:before {
     content: "";
     position: absolute;
