@@ -12,12 +12,12 @@ const comments = require("gulp-header-comment");
 var path = {
   src: {
     html: "source/*.html",
-    others: "source/*.+(php|ico|png)",
+    others: "source/*.+(php|ico|png|txt)",
     htminc: "source/partials/**/*.htm",
     incdir: "source/partials/",
     plugins: "source/plugins/**/*.*",
     js: "source/js/*.js",
-    scss: "source/scss/**/*.scss",
+    scss: "source/scss/**/*.+(scss|css)",
     images: "source/images/**/*.+(png|jpg|gif|svg)",
   },
   build: {
